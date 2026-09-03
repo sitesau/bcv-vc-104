@@ -6,7 +6,7 @@
   "node_role": "feeder",
   "money_target": "brisbaneconveyancers.net.au",
   "primary_kw": "brisbane conveyancers how to choose",
-  "intended_url": "https://brisbane-conveyancers-how-to-choose-bv-104.ondigitalocean.app/",
+  "intended_url": "https://sites-e470-2.web.app/brisbane-conveyancers-how-to-choose-bv-104/",
   "links": [
     {
       "target_url": "https://sitesau.github.io/bcv-vc-150/",
@@ -18,5 +18,6 @@
       "anchor": "brisbane conveyancers",
       "rel": "follow"
     }
-  ]
+  ],
+  "structure": "wheel"
 }
